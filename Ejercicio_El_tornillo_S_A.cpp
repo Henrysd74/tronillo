@@ -20,6 +20,7 @@ struct proveedor {
     int idproveedor;
     string nombre;
     string telefono;
+    int sd;
 
 }provehedores[50];
 
